@@ -2,15 +2,17 @@
 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)&nbsp;![JavaScript](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white)&nbsp; ![D3.js](https://img.shields.io/badge/D3.js-092E20?style=flat-square&logo=d3.js&logoColor=white)
 
-This is data visualization portfolio App.
+### Compiles and hot-reloads for development
 
-## About Me
+```
+npm run serve
+```
 
-- learning Data Visualization with D3.js
+### Compiles and minifies for production
 
-## Contents
-
-## Contact
+```
+npm run build
+```
 
 [![twitter](https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white)][twitter]
 
