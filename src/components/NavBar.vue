@@ -4,7 +4,7 @@
       <a class="navbar-brand" href="/">
         <img src="../assets/logo.png" alt="" width="30" height="30" />
       </a>
-      <a class="navbar-brand" href="/">Vue D3.js Visualization</a>
+      <a class="navbar-brand" href="/">Vue P5.js Visualization</a>
       <button
         class="navbar-toggler"
         type="button"
